@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1_LAB_5.2.cpp
+C:\Student\LAB_5.2\UnitTest1_LAB_5.2\UnitTest1_LAB_5.2.cpp(16,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Student\LAB_5.2\x64\Debug\UnitTest1_LAB_5.2.lib and object C:\Student\LAB_5.2\x64\Debug\UnitTest1_LAB_5.2.exp
+  UnitTest1_LAB_5.2.vcxproj -> C:\Student\LAB_5.2\x64\Debug\UnitTest1_LAB_5.2.dll
